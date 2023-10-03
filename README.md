@@ -5,4 +5,4 @@ There are 2 files,
 1) 'scraper.ipynb' which contains the code for both the scraping and visualisation, it is created using jupyter notebook to allow for easier visualisation of the output and
 2) 'scraped_data_ver2.xlsx' which contain the scrapped data for the role Data Analyst and contain 3 columns, job name, link to job and skill list
 
-Do check out the 'scraper.ipynb' file to see the code in work. Thank you!
+![image](https://github.com/Valent2809/LinkedIn-scraper-and-visualisation/assets/109756078/afd27f49-a01b-45d4-b799-acaa8f06b525)
