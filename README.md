@@ -14,7 +14,7 @@ There are 2 files,
 ## This is the final visualization of the top 20 skills ranked by their count for the role Data Analyst:
 ![image](https://github.com/Valent2809/LinkedIn-scraper-and-visualisation/assets/109756078/517f66c2-1396-4034-82ca-8f187284b4a3)
 
-Do Look at the scraper.ipynb file for the full code an explaination. Thank you!
+Do Look at the scraper.ipynb file for the full code and explaination. Thank you!
 
 
 
